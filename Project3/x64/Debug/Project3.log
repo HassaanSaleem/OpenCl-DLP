@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\hassaan\source\repos\project3\project3\source.cpp(40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\Hassaan\source\repos\Project3\x64\Debug\Project3.exe
